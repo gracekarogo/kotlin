@@ -1,6 +1,6 @@
 //Parent class
 open class Shape(){
-    fun draw(){
+   open  fun draw(){
         println("Drawing a shape")
     }
 }
